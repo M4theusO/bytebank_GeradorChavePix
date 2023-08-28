@@ -10,3 +10,5 @@ C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChave
 C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\refint\bytebank_GeradorChavePix.dll
 C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.pdb
 C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\ref\bytebank_GeradorChavePix.dll
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix.xml
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.xml

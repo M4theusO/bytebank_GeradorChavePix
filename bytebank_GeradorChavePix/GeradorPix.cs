@@ -7,13 +7,25 @@ using System.Threading.Tasks;
 
 namespace bytebank_GeradorChavePix
 {
+    /// <summary>
+    /// Classe que gera chaves PIX usando o formato Guid.
+    /// </summary>
     public static class GeradorPix
     {
+        /// <summary>
+        /// Método retorna uma chave aleatória de PIX.
+        /// </summary>
+        /// <returns>Retorna uma chave PIX no formato string.</returns>
         public static string GetChavePix()
         {
             return Guid.NewGuid().ToString();
         }
 
+        /// <summary>
+        /// Método retorna uma lista aleatória de chaves PIX.
+        /// </summary>
+        /// <param name="numeroDeChaves"> Quantidade de chaves a serem geradas.</param>
+        /// <returns>Uma lista de strings de chaves PIX.</returns>
         public static List<string> GetChavesPix(int numeroDeChaves)
         {
             if(numeroDeChaves <= 0)
