@@ -1,0 +1,14 @@
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix_Matheus.deps.json
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix_Matheus.dll
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix_Matheus.pdb
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix_Matheus.xml
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.csproj.AssemblyReference.cache
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.AssemblyInfoInputs.cache
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.AssemblyInfo.cs
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.dll
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\refint\bytebank_GeradorChavePix_Matheus.dll
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.xml
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix_Matheus.pdb
+C:\Users\Matheus Oliveira\Desktop\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\ref\bytebank_GeradorChavePix_Matheus.dll

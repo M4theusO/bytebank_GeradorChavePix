@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Oliveira\\Desktop\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
-      "projectName": "bytebank_GeradorChavePix",
-      "projectPath": "C:\\Users\\Matheus Oliveira\\Desktop\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Oliveira\\Desktop\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix_Matheus.csproj",
+      "projectName": "bytebank_GeradorChavePix_Matheus",
+      "projectPath": "C:\\Users\\Matheus Oliveira\\Desktop\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix_Matheus.csproj",
       "packagesPath": "C:\\Users\\Matheus Oliveira\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Matheus Oliveira\\Desktop\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\obj\\",
       "projectStyle": "PackageReference",

@@ -11,14 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("bytebank_GeradorChavePix")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("bytebank_GeradorChavePix_Matheus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Esse pacote se destina a gerar chaves PIX de maneira aleatória usando os recursos" +
     " da estrutura Guid.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("bytebank_GeradorChavePix")]
-[assembly: System.Reflection.AssemblyTitleAttribute("bytebank_GeradorChavePix")]
+[assembly: System.Reflection.AssemblyProductAttribute("bytebank_GeradorChavePix_Matheus")]
+[assembly: System.Reflection.AssemblyTitleAttribute("bytebank_GeradorChavePix_Matheus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
